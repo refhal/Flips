@@ -1,0 +1,105 @@
+.animate__animated {
+	text-align: center;
+	padding: 70px 0px 0px 0px;
+	text-align: center;
+	font-family: 'Moirai One', cursive;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 5.5rem;
+	transition-duration: 1.6s;
+	border: hidden;
+	color: white;
+}
+
+.animate__animated:hover {
+	cursor: default;
+	font-size: 6rem;
+
+}
+
+.AAA {
+	text-align: center;
+	padding: 0px 0px 70px 00px;
+	text-align: center;
+	font-family: 'Moirai One', cursive;
+	font-weight: bold;
+	transition-duration: 2s;
+	color: white;
+	border: hidden;
+}
+
+.AAA:hover {
+	cursor: default;
+	font-size: 1.5rem;
+}
+
+strong {
+	font-size: 150%;
+}
+
+.BBB {
+	text-align: center;
+	text-align: center;
+	padding: 0px 100px 0px 100px;
+	border: solid;
+	border-color: pink;
+	border-radius: 15px 50px 30px;
+	text-align: center;
+	color: white;
+}
+
+footer {
+	font-family: 'Moirai One', cursive;
+	text-align: center;
+	cursor: default;
+	transition-duration: 2s;
+	font-weight: 400;
+	color: white;
+}
+
+footer:hover {
+	cursor: default;
+	font-size: 1.3rem;
+}
+
+body {
+  background-image: url(backround.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+}
+
+button:hover {
+	border-width: 4px;
+}
+
+.btn-primary {
+	padding: 0px 10px;
+	background-color: black;
+}
+
+section {
+	padding: 5px 0px;
+}
+
+.gap-2 {
+	padding: 20px 0px 20px 0px;
+}
+
+.DDD {
+	font-family: 'Twinkle Star', cursive;
+	font-weight: bold;
+}
+
+.card-title {
+	text-decoration: underline;
+}
+
+.d-md-flex {
+	padding: 20px 0px;
+}
+
+#accordionPanelsStayOpenExample {
+	padding: 20px 400px 20px 400px;
+}
